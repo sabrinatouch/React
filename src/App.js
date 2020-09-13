@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Main from './components/MainComponent';
 import './App.css';
 
+// Container Component
 class App extends Component {
 
   render() {

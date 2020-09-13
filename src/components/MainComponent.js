@@ -4,6 +4,7 @@ import Menu from './MenuComponent';
 import DishDetail from './DishdetailComponent';
 import { DISHES } from '../shared/dishes';
 
+// Container Component
 class Main extends Component {
 
   constructor(props) {
